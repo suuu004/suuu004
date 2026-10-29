@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="220" height="220" alt="usagi" src="https://github.com/user-attachments/assets/e0e6a0a2-9c4d-4715-b946-238c06e652a8" />
+<!--<img width="220" height="220" alt="usagi" src="https://github.com/user-attachments/assets/e0e6a0a2-9c4d-4715-b946-238c06e652a8" />-->
 
 
 <div style="text-align: left;">
